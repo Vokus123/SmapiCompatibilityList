@@ -28120,6 +28120,14 @@
 			"id": "slO.FarmerMotion",
 			"nexus": 30710,
 			"github": null
+		},
+		{
+			"name": "Label Changer",
+			"author": "Vokus",
+			"id": "vokus.LabelChanger",
+			"nexus": 31502,
+			"github": null
 		}
+	]
 	]
 }
